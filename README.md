@@ -1,1 +1,1 @@
-# zorkz.net
+# zorkz.net is the source code for zorkz.net
